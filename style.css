@@ -4,7 +4,7 @@
 
 body {
   background: #2c3e50;
-  margin: 10px;
+  padding-top: 20px;
   font-family: 'Roboto', sans-serif; }
 
 .container {
@@ -27,5 +27,10 @@ body {
     line-height: 25px; }
   .container span {
     font-style: italic; }
+
+footer {
+  text-align: center;
+  color: #fff;
+  padding: 20px 0; }
 
 /*# sourceMappingURL=style.css.map */
