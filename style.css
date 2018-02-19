@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower|Roboto:400,700");
+* {
+  box-sizing: border-box; }
+
+body {
+  background: #2c3e50;
+  margin: 10px;
+  font-family: 'Roboto', sans-serif; }
+
+.container {
+  margin: 0 auto;
+  padding: 50px;
+  padding-top: 20px;
+  max-width: 750px;
+  background: #fff;
+  border-radius: 15px;
+  text-align: center; }
+  .container h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px; }
+  .container .title {
+    font-weight: 700;
+    padding-top: 20px;
+    font-size: 25px; }
+  .container .text {
+    font-size: 18px;
+    line-height: 25px; }
+  .container span {
+    font-style: italic; }
+
+/*# sourceMappingURL=style.css.map */
