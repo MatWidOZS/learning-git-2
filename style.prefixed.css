@@ -6,9 +6,12 @@ body {
   background: #2c3e50;
   padding-top: 20px;
   font-family: 'Roboto', sans-serif;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: nowrap;
-  flex-direction: column; }
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -ms-flex-direction: column;
+      flex-direction: column; }
 
 .container {
   margin: 0 auto;
@@ -36,4 +39,4 @@ footer {
   color: #fff;
   padding: 20px 0; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */

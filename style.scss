@@ -6,6 +6,9 @@ body {
 	background: #2c3e50;
 	padding-top: 20px;
 	font-family: 'Roboto', sans-serif;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: column;
 }
 
 .container {
@@ -16,7 +19,6 @@ body {
 	background: #fff;
 	border-radius: 15px;
 	text-align: center;
-
 	h1 {
 		font-family: 'Indie Flower', cursive;
 		font-size: 40px;
