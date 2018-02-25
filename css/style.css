@@ -14,3 +14,5 @@ body { background: #2c3e50; padding-top: 20px; font-family: 'Roboto', sans-serif
 .container span { font-style: italic; }
 
 footer { text-align: center; color: #fff; padding: 20px 0; }
+
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: nowrap; flex-wrap: nowrap; }
